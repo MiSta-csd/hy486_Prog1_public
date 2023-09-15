@@ -1,0 +1,49 @@
+./a.out input
+
+
+input: 
+3
+output:
+List size check (expected: 9 , found: 9)
+List keysum check (expected: 36 , found: 36) 
+HT[0] size check (expected: 9 , found: 9)
+HT keysum check (expected: 36 , found: 36)
+HT[0] size check (expected: 6 , found: 6)
+Stack size check (expected: 3 , found: 3) 
+List size check (expected: 3 , found: 3)
+
+
+input: 
+6
+output:
+List size check (expected: 36 , found: 36)
+List keysum check (expected: 630 , found: 630) 
+HT[0] size check (expected: 18 , found: 18)
+HT[1] size check (expected: 18 , found: 18)
+HT keysum check (expected: 630 , found: 630)
+HT[0] size check (expected: 12 , found: 12)
+HT[1] size check (expected: 12 , found: 12)
+Stack size check (expected: 12 , found: 12) 
+List size check (expected: 12 , found: 12)
+
+
+
+input: 
+12
+output:
+List size check (expected: 144 , found: 144)
+List keysum check (expected: 10296 , found: 10296) 
+HT[0] size check (expected: 36 , found: 36)
+HT[1] size check (expected: 36 , found: 36)
+HT[2] size check (expected: 36 , found: 36)
+HT[3] size check (expected: 36 , found: 36)
+HT keysum check (expected: 10296 , found: 10296)
+HT[0] size check (expected: 24 , found: 24)
+HT[1] size check (expected: 24 , found: 24)
+HT[2] size check (expected: 24 , found: 24)
+HT[3] size check (expected: 24 , found: 24)
+Stack size check (expected: 48 , found: 3) 
+List size check (expected: 48 , found: 48)
+
+
+
